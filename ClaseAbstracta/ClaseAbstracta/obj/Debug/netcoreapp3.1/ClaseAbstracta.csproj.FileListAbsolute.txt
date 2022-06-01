@@ -1,0 +1,14 @@
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.exe
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.deps.json
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.runtimeconfig.json
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.runtimeconfig.dev.json
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.dll
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.pdb
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.csproj.AssemblyReference.cache
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.AssemblyInfo.cs
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.dll
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.pdb
+C:\Users\enriq\source\repos\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.genruntimeconfig.cache
